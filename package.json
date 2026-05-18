@@ -2,7 +2,7 @@
   "name": "trade-journal-backend",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {"start": "node server.js"},
+  "scripts": {"start": "node src/server.js"},
   "dependencies": {
     "better-sqlite3": "^9.4.3",
     "cors": "^2.8.5",
