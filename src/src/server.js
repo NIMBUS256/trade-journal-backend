@@ -1,2 +1,2 @@
 package.json
-src/server.js
+server.js
